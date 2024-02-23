@@ -1,0 +1,35 @@
+{
+    "google_sheets": {
+      "credentials_file": "./service_account.json",
+      "raw_tweets_sheet": "Tweets data file here",
+      "filtered_tweets_sheet": "Filtered tweets are appened to this file"
+    },
+    "openai": {
+      "api_keys": [
+        "sk-YOUR_OPEN_AI_KEY"
+      ]
+    },
+    "discord": {
+      "webhook_urls": [
+        "https://discord.com/api/webhooks/123456/YOUR_WEBHOOK_LINK"
+      ]
+    },
+    "last_row_file": "last_row.txt",
+    
+    "user_map": {
+    "elonmusk": {
+      "name": "Elon Musk",
+      "icon_url": "https://cdn.discordapp.com/attachments/1127202352970076200/1127272756883501096/image.png"
+    },
+    "CathieDwood": {
+      "name": "Cathie Wood",
+      "icon_url": "https://cdn.discordapp.com/attachments/1127202352970076200/1127202548172988416/m-ff15bb_400x400.png"
+    },
+    "Deltaone": {
+      "name": "Walter Bloomberg",
+      "icon_url": "https://cdn.discordapp.com/attachments/1127202352970076200/1127202600744403034/ONAi10Ip_400x400.png"
+    }
+  }
+  
+  }
+  
